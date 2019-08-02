@@ -14,5 +14,7 @@ Feel free to drop something useful via pull requests.
 * [tcache + House of Spirit](http://tukan.farm/2017/07/08/tcache/)
 * [tcache 34C3CTF](http://blog.rh0gue.com/2018-01-05-34c3ctf-simplegc/)
 * [shellphish/how2heap](https://github.com/shellphish/how2heap)
+* [Peerlyst compendium of heap + ROP + browser exploitation](https://www.peerlyst.com/posts/resource-exploit-development-tutorials-and-guides-chiheb-chebbi?trk=site_header)
+* [Azeria heap exploitation](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
 
 ### Fuzzing
