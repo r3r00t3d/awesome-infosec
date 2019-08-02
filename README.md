@@ -8,5 +8,6 @@ Feel free to drop something useful via pull requests.
 * [Fuzzing](#fuzzing)
 
 ### Heap exploitation
+["House of Corrosion" GLIBC heap exploitation technique](https://github.com/CptGibbon/House-of-Corrosion)
 
 ### Fuzzing
