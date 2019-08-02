@@ -7,6 +7,6 @@ Feel free to drop something useful via pull requests.
 * [Heap exploitation](###heap-exploitation)
 * [Fuzzing](###fuzzing)
 
-###Heap exploitation
+### Heap exploitation
 
-###Fuzzing
+### Fuzzing
