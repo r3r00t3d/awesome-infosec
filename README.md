@@ -6,6 +6,13 @@ Feel free to drop something useful via pull requests.
 ## Contents
 * [Heap exploitation](#heap-exploitation)
 * [Fuzzing](#fuzzing)
+* [Malware analysis](#malware-analysis)
+* [Reversing](#reversing)
+* [Browser exploitation](#browser-exploitation)
+* [Hardware](#hardware)
+* [Web security](#web-security)
+* [ROP](#rop)
+* [Kernel exploitation](#kernel-exploitation)
 
 ### Heap exploitation
 * ["House of Corrosion" GLIBC heap exploitation technique](https://github.com/CptGibbon/House-of-Corrosion)
